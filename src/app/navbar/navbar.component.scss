@@ -1,0 +1,80 @@
+.content
+{
+        background-color: #88a0aa;
+        width: 20%;
+            z-index: 1;
+        height: 100%;
+}
+.function img
+{
+        border-radius: 100%;
+        border: 3px solid black;
+        width: 30%;
+       margin: 0 auto;
+       display: flex;
+    //    justify-content: center;
+    
+     
+        
+
+}
+.pheno
+{
+        color: #88a0aa;
+
+}
+button
+{
+        background-color: transparent;
+        padding: 15px;
+        border-radius: 10px;
+        // box-shadow: 3px 1px 1px 1px #6a81a52d;
+        margin: 0 auto;
+        display: flex;
+        margin-top: 20px;
+        font-weight: 700;
+       transition: all 0.3s ease;
+}
+button:hover
+{
+    box-shadow: 2px 2px 2px 2px #00000075;
+    transition: all 0.3s ease;
+    color: aliceblue;
+
+}
+.dangnhap1, button ,  a
+{
+text-decoration: none;
+// margin-left: 100px ;
+
+
+}
+h2{
+    font-size: 30px;
+    font-weight: 700;
+    margin: 15px 0 0 15px;
+}
+input
+{
+        margin: 10px 0 0 15px;
+        padding: 10px;
+        width: 80%;
+        border: none;
+        background-color: transparent;
+        border-bottom: 2px solid black;
+
+
+}
+iframe
+{
+                border-radius: 10px;
+                opacity: 0.8;
+                height: 150px;
+                width: 100%;
+                        margin-top: 150px;
+                        background-color: transparent;
+
+}
+
+
+
